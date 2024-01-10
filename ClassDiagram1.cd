@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DFSAlgorithmMaze.Cell">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEhAAACAAAAAkBCAUBACAAAAAIAAgAASAAEAACAAAA=</HashCode>
+      <FileName>Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DFSAlgorithmMaze.Maze">
+    <Position X="14" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAwAAAAoAEAAAAAAAQQAAAAAAAGAAAIE=</HashCode>
+      <FileName>Maze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication22.Diamond">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAEAAAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diamond.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication22.Form1" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AA4QEAMGCL1gmAGEEgCwhBgDIEKIKwQAXBAkBACAhCA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication22.GameMessage" Collapsed="true">
+    <Position X="14" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAgAgAAAAAAAAAAAAAACAAAAAIAAAAAA=</HashCode>
+      <FileName>GameMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication22.Heart">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAABAAgAgEAAAABAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Heart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication22.Hero">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAMAAAAAAAAgAgAAAAAAAAAAAAAAAIQAAAAAAAAAM=</HashCode>
+      <FileName>Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication22.Lives" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAgAggEAAAAAIAAgACACAAAAAAAAAAAA=</HashCode>
+      <FileName>Lives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication22.Score" Collapsed="true">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAABgAgIAAAAAQAAAAAAACAAAAgAAAAAAA=</HashCode>
+      <FileName>Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication22.TimerDisplay" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAABgAgACAAAAQCAAIAAACABAAAAAAAAAA=</HashCode>
+      <FileName>TimerDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication22.Trap" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAABAAgAgEAAAABAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="WindowsApplication22.TimeDirection" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>TimerDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
